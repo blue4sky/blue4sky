@@ -1,8 +1,6 @@
 ## Hey, I'm [Rifqi](https://blue4sky.github.io/)👋
 
-#### Currently studying Computer Science as a penultimate year student at [UCL](https://www.ucl.ac.uk/) 🎓 
-
-I'm a hard-working computer science student with years of hands-on experience creating and testing applications for Android and iOS. Since high school, I have made many apps starting from the simplest to the most complex one, such as integrating multiple APIs to build a functional end-to-end app that impacts users positively.
+#### Currently studying Computer Science as a final year student at [UCL](https://www.ucl.ac.uk/) 🎓 
 
 ---
 
