@@ -44,14 +44,3 @@
 <a href="https://open.spotify.com/user/sultanrifqi4?si=c16de97f37ba49e5"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Spotify.png" alt="SR | Spotify" width="30px"/></a>
 
 <a href="https://www.instagram.com/sultanrifqi4/"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Instagram.png" alt="SR | Instagram" width="30px"/></a>
-
-<a href="https://www.youtube.com/channel/UCDc5XFL9N_QKJHf8kvDbfbw"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Youtube.png" alt="SR | Youtube" width="30px"/></a>
-
-<br>
-
----
-### GitHub Stats 📈
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue4sky&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue4sky&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
