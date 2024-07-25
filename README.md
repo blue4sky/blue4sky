@@ -1,6 +1,6 @@
 ## Hey, I'm [Rifqi](https://blue4sky.github.io/)👋
 
-#### Currently studying Computer Science as a final year student at [UCL](https://www.ucl.ac.uk/) 🎓 
+#### Currently studying MSc Software Systems Engineering at [UCL](https://www.ucl.ac.uk/) 🎓 
 
 ---
 
