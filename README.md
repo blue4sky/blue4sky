@@ -41,6 +41,4 @@
 
 <a href="mailto:sultanrifqi.web@gmail.com"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Gmail.png" alt="SR | Gmail" width="30px"/></a>
 
-<a href="https://open.spotify.com/user/sultanrifqi4?si=c16de97f37ba49e5"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Spotify.png" alt="SR | Spotify" width="30px"/></a>
-
 <a href="https://www.instagram.com/sultanrifqi4/"><img align="left" src="https://raw.githubusercontent.com/blue4sky/blue4sky/main/images/Instagram.png" alt="SR | Instagram" width="30px"/></a>
